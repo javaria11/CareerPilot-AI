@@ -1,0 +1,6 @@
+{
+  "name": "CareerPilot AI",
+  "description": "AI-powered career co-pilot for resume analysis, career guidance, interview preparation, and skill gap analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
