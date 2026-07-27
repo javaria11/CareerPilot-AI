@@ -149,6 +149,9 @@ The AI is instructed to:
 ### Interview Generator
 ![Interview Generator](screenshots/interview.png)
 
+### Skill Gap & Analysis
+![Skill Gap & Analysis](screenshots/skillgap.png)
+
 ---
 
 ## Installation & Setup
