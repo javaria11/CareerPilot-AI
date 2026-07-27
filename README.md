@@ -35,44 +35,25 @@ CareerPilot AI provides personalised AI-driven recommendations and guidance to h
 ## Features
 
 ### Resume Analyzer
-
-* Analyse resume content using AI
-* Identify strengths and weaknesses
-* Highlight missing skills
-* Provide improvement suggestions
-* Generate resume feedback
-
-### Cover Letter Generator
-
-* Create professional cover letters
-* Customised according to job role and skills
-* Ready-to-use content for job applications
-
-### Interview Preparation
-
-* Generate role-specific interview questions
-* Provide sample answers
-* Help users practice for interviews
-
-### Career Roadmap Generator
-
-* Generate personalised career roadmaps
-* Suggest learning paths and milestones
-* Provide guidance based on career goals
-
-### Skill Gap Analysis
-
-* Compare current skills with desired career requirements
-* Identify areas for improvement
-* Recommend learning objectives
+- Analyse resume content using AI
+- Identify strengths and weaknesses
+- Highlight areas for improvement
+- Provide personalised feedback
 
 ### AI Career Advisor
+- Interactive AI-powered career guidance
+- Personalised career recommendations
+- Professional development suggestions
 
-* Interactive AI-powered career guidance
-* Personalised career recommendations
-* Professional development suggestions
+### Interview Generator
+- Generate role-specific interview questions
+- Help users prepare for interviews
+- Provide practice material for job seekers
 
----
+### Skill Gap Analysis
+- Identify missing skills for target careers
+- Compare current skills with career requirements
+- Recommend areas for improvement
 
 ## AI Feature
 
@@ -80,12 +61,11 @@ CareerPilot AI uses Google's Gemini AI model to analyse user input and generate 
 
 ### AI Capabilities
 
-* Resume evaluation and feedback
-* Career recommendations
-* Interview question generation
-* Cover letter generation
-* Skill gap analysis
-* Career roadmap planning
+- Resume analysis and feedback
+- Career guidance and recommendations
+- Interview question generation
+- Skill gap analysis
+- Personalised career development suggestions
 
 ### Example System Instructions
 
@@ -184,28 +164,6 @@ npm run dev
 
 ```text
 http://localhost:3000
-```
-
----
-
-## Project Structure
-
-```text
-CareerPilot-AI
-│
-├── src/
-│   ├── components/
-│   ├── views/
-│   ├── data/
-│   ├── utils/
-│   ├── App.tsx
-│   └── main.tsx
-│
-├── assets/
-├── server.ts
-├── package.json
-├── vite.config.ts
-└── README.md
 ```
 
 ---
